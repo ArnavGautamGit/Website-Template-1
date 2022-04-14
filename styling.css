@@ -338,6 +338,10 @@
       color: #24262b;
       background-color: #ffffff;
   }
+
+  .fa-twitter{
+      text-align: center;
+  }
   
   /*responsive*/
   @media(max-width: 767px){
@@ -351,5 +355,3 @@
       width: 100%;
   }
   }
-
-
