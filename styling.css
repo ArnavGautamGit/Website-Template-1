@@ -210,6 +210,14 @@
     .nav li img {
       width: 35px;
     }
+
+    .Sample-1 {
+      width: 200px;
+    }
+
+    .Sample-2 {
+      width: 200px;
+    }
   }
 
   @media screen and (max-width: 500px) {
@@ -231,6 +239,15 @@
 
     .Link img {
       width: 80px;
+    }
+
+    .Sample-1 {
+      width: 100px;
+    }
+
+    .Sample-2 {
+      width: 100px;
+      margin-top: -90px;
     }
   }
 
@@ -257,6 +274,15 @@
 
     aside {
       border: 2px solid black;
+    }
+
+    .Sample-1{
+      width: 150px;
+    }
+
+    .Sample-2{
+      width: 150px;
+      margin-top: -90px;
     }
   }
   /* Footer design */
